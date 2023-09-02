@@ -1,0 +1,8 @@
+*.o
+.vscode/
+
+# Mac file cache
+.DS_Store
+
+# execute file
+application
